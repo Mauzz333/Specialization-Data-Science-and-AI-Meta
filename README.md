@@ -1,6 +1,6 @@
 # 📌 Specialization: Data Science and AI (Meta) 
 
- ## 📂 Estructura del Repositorio
+## 📂 Estructura del Repositorio
 - 📊 Hands-On Statistical Foundations
 Contenido enfocado en las bases matemáticas y estadísticas necesarias para la ciencia de datos y el aprendizaje automático.
 
