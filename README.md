@@ -5,7 +5,16 @@
 Contenido enfocado en las bases matemáticas y estadísticas necesarias para la ciencia de datos y el aprendizaje automático.
 
 ## 🐍 Hands-On Python
-- Ejercicios y scripts para dominar el lenguaje Python, desde sintaxis básica hasta librerías especializadas.
+Sección dedicada al dominio del lenguaje base, desde la sintaxis fundamental hasta la lógica de programación.
+
+**Temas tratados:**
+- [x] Introducción al Lenguaje de Programación Python.
+- [x] Estructuras de Control de Flujo (Lógica y Bucles).
+- [x] Introducción a las Funciones y Modularidad.
+
+**Stack:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📈 Hands-On Data Analysis
 - Prácticas de manipulación de datos, limpieza (data wrangling) y exploración profunda para obtener insights.
