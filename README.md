@@ -13,8 +13,8 @@ Sección dedicada al dominio del lenguaje base, desde la sintaxis fundamental ha
 - [x] Introducción a las Funciones y Modularidad.
 
 **Stack:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📈 Hands-On Data Analysis
 - Prácticas de manipulación de datos, limpieza (data wrangling) y exploración profunda para obtener insights.
