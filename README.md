@@ -6,7 +6,7 @@ Fundamentos matemáticos y estadísticos aplicados mediante código para la inte
 **Temas tratados:**
 - [x] Introducción a las Librerías de Python (NumPy, Pandas).
 - [x] Estadística Descriptiva (Medidas y Distribuciones).
-- [x] Introducción a la Estadística Inferencial.
+- [x] Introducción a la Estadística Inferencial y aprendizaje automático.
 
 **Stack:**
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
