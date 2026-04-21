@@ -1,8 +1,17 @@
 # 📌 Specialization: Data Science and AI (Meta) 
 
-## 📂 Estructura del Repositorio
-- 📊 Hands-On Statistical Foundations
-Contenido enfocado en las bases matemáticas y estadísticas necesarias para la ciencia de datos y el aprendizaje automático.
+### 📊 Hands-On Statistical Foundations
+Fundamentos matemáticos y estadísticos aplicados mediante código para la interpretación de datos.
+
+**Temas tratados:**
+- [x] Introducción a las Librerías de Python (NumPy, Pandas).
+- [x] Estadística Descriptiva (Medidas y Distribuciones).
+- [x] Introducción a la Estadística Inferencial.
+
+**Stack:**
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
 ## 🐍 Hands-On Python
 Sección dedicada al dominio del lenguaje base, desde la sintaxis fundamental hasta la lógica de programación.
