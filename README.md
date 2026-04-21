@@ -1,1 +1,1 @@
-# Specialization: Data-Science and AI (Meta)
+# Specialization: Data Science and AI (Meta)
