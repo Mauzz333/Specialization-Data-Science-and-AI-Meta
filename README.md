@@ -4,7 +4,7 @@
 - 📊 Hands-On Statistical Foundations
 Contenido enfocado en las bases matemáticas y estadísticas necesarias para la ciencia de datos y el aprendizaje automático.
 
-# 🐍 Hands-On Python
+## 🐍 Hands-On Python
 Ejercicios y scripts para dominar el lenguaje Python, desde sintaxis básica hasta librerías especializadas.
 
 ## 📈 Hands-On Data Analysis
