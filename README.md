@@ -49,7 +49,7 @@ Proyectos finales que demuestran habilidades en Ciencia de datos e IA, estadíst
 - [x] **Sistema de Gestión de Inventarios:** Implementación de un sistema **CRUD** completo en Python para la administración y alta de productos en inventario.
 - [x] **Marketing Bancario:** Análisis de campañas y comportamiento del cliente con reporte de resultados en HTML.
 - [x] **Fundamentos Estadísticos:** Análisis exploratorio con aprendizaje estadístico para la validación de modelos y datos.
-- [ ] 
+
 **Stack:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -57,3 +57,5 @@ Proyectos finales que demuestran habilidades en Ciencia de datos e IA, estadíst
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%234470AD.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
+![YData Profiling](https://img.shields.io/badge/ydata_profiling-%231C1A3B.svg?style=for-the-badge&logo=ydata-profiling&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
