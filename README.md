@@ -21,7 +21,7 @@ Uso de herramientas avanzadas para la exploración, limpieza y transformación d
 **Temas tratados:**
 - [x] Herramientas de Análisis de Datos (Configuración de Entorno).
 - [x] Exploración y Manipulación de Dataframes.
-- [x] Creación de gráficos interactivos y Dashboards.
+- [x] Limpieza de datos.
 
 ## 🐍 Hands-On Python
 Sección dedicada al dominio del lenguaje base, desde la sintaxis fundamental hasta la lógica de programación.
