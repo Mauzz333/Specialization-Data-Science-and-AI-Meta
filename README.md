@@ -19,9 +19,9 @@
 Uso de herramientas avanzadas para la exploración, limpieza y transformación de grandes volúmenes de datos, con un enfoque en visualización interactiva.
 
 **Temas tratados:**
-- [x] Herramientas de Análisis de Datos (Configuración de Entorno).
+- [x] Herramientas de Análisis de Datos.
 - [x] Exploración y Manipulación de Dataframes.
-- [x] Limpieza de datos.
+- [x] Limpieza y visualización datos.
 
 ## 🐍 Hands-On Python
 Sección dedicada al dominio del lenguaje base, desde la sintaxis fundamental hasta la lógica de programación.
