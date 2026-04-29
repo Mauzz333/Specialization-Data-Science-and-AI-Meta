@@ -35,7 +35,7 @@ Sección dedicada al dominio del lenguaje base, desde la sintaxis fundamental ha
 Fundamentos matemáticos y estadísticos aplicados mediante código para la interpretación de datos.
 
 **Temas tratados:**
-- [x] Introducción a las Librerías de Python (NumPy, Pandas).
+- [x] Introducción a las Librerías de Python.
 - [x] Estadística Descriptiva (Medidas y Distribuciones).
 - [x] Introducción a la Estadística Inferencial y aprendizaje automático.
 
