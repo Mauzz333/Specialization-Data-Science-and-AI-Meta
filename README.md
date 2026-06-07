@@ -1,4 +1,4 @@
-# 📌 Specialization: Data Science and AI (Meta) 
+# 📌 Specialization: Data Science and AI (Meta) <img src="https://companieslogo.com/img/orig/META-4767da84.png?t=1654568366" width="100" alt="Meta">
 
 ### 🧰**Stack:**
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
