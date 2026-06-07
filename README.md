@@ -1,4 +1,4 @@
-# 📌 Specialization: Data Science and AI (Meta) <img width="903" height="127" alt="image" src="https://github.com/user-attachments/assets/9d1c89fd-fa51-4396-8a53-ba748d31c0c9" />
+# 📌 Specialization: Data Science and AI (Meta)
 
 
 ### 🧰**Stack:**
