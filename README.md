@@ -20,7 +20,7 @@
 ### 📈 Hands-On Data Analysis
 Uso de herramientas avanzadas para la exploración, limpieza y transformación de grandes volúmenes de datos, con un enfoque en visualización interactiva.
 
-**Temas tratados:**
+**Temas tratados: Youtube and Airbnb**
 - [x] Herramientas de Análisis de Datos.
 - [x] Exploración y Manipulación de Dataframes.
 - [x] Limpieza y visualización datos.
@@ -49,3 +49,5 @@ Proyectos finales que demuestran habilidades en Ciencia de datos e IA, estadíst
 - [x] **Sistema de Gestión de Inventarios:** Implementación de un sistema **CRUD** completo en Python para la administración y alta de productos en inventario.
 - [x] **Marketing Bancario:** Análisis de campañas y comportamiento del cliente con reporte de resultados en HTML.
 - [x] **Fundamentos Estadísticos:** Análisis exploratorio con aprendizaje estadístico para la validación de modelos y datos.
+- [x] **Netflix Movies and TV Shows:** Proyecto de análisis exploratorio de datos donde cada proceso de analisis se realizó Recopilación -> Limpieza -> Exploración -> Visualización de datos.
+
