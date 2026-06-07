@@ -21,7 +21,7 @@
 Uso de herramientas avanzadas para la exploración, limpieza y transformación de grandes volúmenes de datos, con un enfoque en visualización interactiva.
 
 **Temas tratados: Youtube and Airbnb**
-<img src="https://freepnglogo.com/images/all_img/1727611626_logo-youtube-png.jpg" width="100" alt="YouTube">
+<img src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo.png" width="100" alt="YouTube">
 <img src="https://tse2.mm.bing.net/th/id/OIP.462Na31vqG-eby91wnByMgHaCU?cb=thfc1falcon2&rs=1&pid=ImgDetMain&o=7&rm=3" width="100" alt="Airbnb">
 
 - [x] Herramientas de Análisis de Datos.
