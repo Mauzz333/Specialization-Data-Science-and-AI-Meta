@@ -25,6 +25,9 @@ Uso de herramientas avanzadas para la exploración, limpieza y transformación d
 - [x] Exploración y Manipulación de Dataframes.
 - [x] Limpieza y visualización datos.
 
+![Logo de YouTube](https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo.png)
+![Logo de Airbnb](https://logos-world.net/wp-content/uploads/2014/07/Airbnb-Logo.png)
+
 ## 🐍 Hands-On Python
 Sección dedicada al dominio del lenguaje base, desde la sintaxis fundamental hasta la lógica de programación.
 
