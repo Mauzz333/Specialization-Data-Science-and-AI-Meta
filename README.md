@@ -45,7 +45,7 @@ Fundamentos matemáticos y estadísticos aplicados mediante código para la inte
 
 
 ### 🚀 Projects
-Proyectos finales que demuestran habilidades en Ciencia de datos e IA, estadística aplicada y análisis de negocio.
+Proyectos finales que demuestran habilidades en Ciencia de datos e IA (Estadística - Exploratory Data Analysis [EDA] - ML.
 
 **Proyectos incluidos:**
 - [x] **Sistema de Gestión de Inventarios:** Implementación de un sistema **CRUD** completo en Python para la administración y alta de productos en inventario.
