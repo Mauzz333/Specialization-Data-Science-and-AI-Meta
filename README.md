@@ -21,12 +21,13 @@
 Uso de herramientas avanzadas para la exploración, limpieza y transformación de grandes volúmenes de datos, con un enfoque en visualización interactiva.
 
 **Temas tratados: Youtube and Airbnb**
+<img src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo.png" width="100" alt="YouTube">
+<img src="https://logos-world.net/wp-content/uploads/2014/07/Airbnb-Logo.png" width="100" alt="Airbnb">
+
 - [x] Herramientas de Análisis de Datos.
 - [x] Exploración y Manipulación de Dataframes.
 - [x] Limpieza y visualización datos.
 
-![Logo de YouTube](https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo.png)
-![Logo de Airbnb](https://logos-world.net/wp-content/uploads/2014/07/Airbnb-Logo.png)
 
 ## 🐍 Hands-On Python
 Sección dedicada al dominio del lenguaje base, desde la sintaxis fundamental hasta la lógica de programación.
