@@ -44,6 +44,15 @@ Fundamentos matemáticos y estadísticos aplicados mediante código para la inte
 - [x] Estadística Descriptiva (Medidas y Distribuciones).
 - [x] Introducción a la Estadística Inferencial y aprendizaje automático.
 
+### 🤖 Hands-On Machine Learning
+Implementación práctica de algoritmos de aprendizaje automático para la resolución de problemas predictivos y de agrupación.
+
+**Temas tratados:**
+- [x] Introducción al Aprendizaje Automático: Comprensión del flujo de entrenamiento (Entrada X, Salida Y) y la relación fundamental entre datos y predicción (Hello World de ML).
+- [x] Aprendizaje Supervisado (Clasificación): Implementación del algoritmo K-Nearest Neighbors (KNN) para la categorización basada en la proximidad de características (vecindad).
+- [x] Aprendizaje No Supervisado (Clustering): Procesos de segmentación y particionamiento de datos mediante el algoritmo K-means para descubrir estructuras ocultas sin etiquetas previas.
+
+
 
 ### 🚀 Projects
 Proyectos finales que demuestran habilidades en Ciencia de datos e IA (Estadística - Exploratory Data Analysis [EDA] - ML).
@@ -52,5 +61,7 @@ Proyectos finales que demuestran habilidades en Ciencia de datos e IA (Estadíst
 - [x] **Sistema de Gestión de Inventarios:** Implementación de un sistema **CRUD** completo en Python para la administración y alta de productos en inventario.
 - [x] **Marketing Bancario:** Análisis de campañas y comportamiento del cliente con reporte de resultados en HTML.
 - [x] **Fundamentos Estadísticos:** Análisis exploratorio con aprendizaje estadístico para la validación de modelos y datos.
-- [x] **Netflix Movies and TV Shows:** Proyecto de análisis exploratorio de datos donde cada proceso de analisis se realizó                                             Recopilación -> Limpieza -> Exploración -> Visualización de datos.
+- [x] **Netflix Movies and TV Shows:** Proyecto de análisis exploratorio de datos donde cada proceso de análisis se realizó                                             Recopilación -> Limpieza -> Exploración -> Visualización de datos.
+- [x] **Análisis de tamaño de mercado de vehículos eléctricos:** Este proyecto de Ciencia de Datos realiza un Análisis Exploratorio (EDA) y una implementación de Aprendizaje Supervisado sobre el registro de vehículos eléctricos en el Estado de Washington. El objetivo principal es identificar patrones de mercado, segmentar la oferta tecnológica (BEV vs. PHEV) y predecir el comportamiento tecnológico para apoyar la toma de decisiones estratégicas de expansión.
+
 
